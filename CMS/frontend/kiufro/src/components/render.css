@@ -1,0 +1,24 @@
+.preview{
+    width: 50%;
+    margin-left: 10%;
+}
+.title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:40px;
+    margin-right: 38%;
+}
+.mlink{
+    text-decoration: none;
+}
+.thumbnail{
+margin-left: 100px;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.posts{
+    width: 50%;
+    margin-left: 10%;
+}

@@ -1,0 +1,27 @@
+ .editor{
+    width: 900px;
+    margin-left: 20%;
+    margin-top: 50px;
+    border-radius: 5px;
+   
+}
+TextEditor{
+    border: 5;
+    border-radius: 5px;
+}
+
+div.border-dark {
+    width: 900px;
+    margin-left: 20%;
+    margin-top: 50px;
+  }
+  .inputtitle{
+    border-radius: 5px;
+    width: 900px;
+    height: 50px;
+  }
+ .square bg-primary rounded-4{
+    background-color: white;
+  }
+
+ 
